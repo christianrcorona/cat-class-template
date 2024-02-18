@@ -13,4 +13,6 @@ garfield = Cat()
 garfield.name = "Garfield"
 garfield.age = 50
 
+stella.speak()
+garfield.speak()
 
